@@ -138,4 +138,4 @@ Github is an important resource for sharing data/analyses and collaborating.  In
 
 If you submit your capstone on Github, we'll need you to knit and submit a different document on Canvas. For that, just open up a blank Rmd. Only put the link to your github page in it. Knit and submit its html on canvas. The markdown code for a link is like this:
 
-Thanks for such an exciting semester Austin, Jess, Lauren & even you, TJ! [Please click here to see my capstone project on Github.](https://url_of_my_capstone (Links to an external site.))
+Thanks for such an exciting semester Austin, Jess, Lauren & TJ! [Please click here to see my capstone project on Github.](https://github.com/retta95/ElSayed_Capstone))
