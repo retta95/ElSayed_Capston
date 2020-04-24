@@ -1,4 +1,4 @@
-# ElSayed_Capston
+# ElSayed_Capstone
 ---
 title: "2020 Capstone Assignment"
 author: "Retta El Sayed"
